@@ -1,14 +1,15 @@
-Simple Weather App with Vanilla JavaScript
+
+# Simple Weather App with Vanilla JavaScript
 
 This project is a simple weather application built with Vanilla JavaScript, utilizing the OpenWeatherMap API to fetch weather data for different cities. It provides users with real-time weather information, including temperature, weather condition, and corresponding icons.
 
-Features
+## Features
 
 - Fetch weather data from the OpenWeatherMap API based on user input.
 - Display weather information for searched cities, including temperature and weather condition icons.
 - Customizable with options to integrate custom weather icons and extend functionality further.
 
-Getting Started
+## Getting Started
 
 To get started with the weather app:
 
@@ -16,7 +17,7 @@ To get started with the weather app:
 2. Obtain an API key from [OpenWeatherMap](https://openweathermap.org/) and replace the key used in the JavaScript file with your key.
 3. Open the `index.html` file in your browser or host it on a web server to use the app.
 
-Technologies Used
+## Technologies Used
 
 - HTML/CSS: For markup and styling of the weather app interface.
 - JavaScript: For fetching weather data from the OpenWeatherMap API and manipulating DOM elements dynamically.

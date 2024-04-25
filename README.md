@@ -22,3 +22,8 @@ To get started with the weather app:
 - HTML/CSS: For markup and styling of the weather app interface.
 - JavaScript: For fetching weather data from the OpenWeatherMap API and manipulating DOM elements dynamically.
 - OpenWeatherMap API: To retrieve real-time weather information for different cities.
+
+## GitHub Pages
+
+The WeatherApp project is hosted using GitHub Pages. You can access the live site [here](https://ashrayaagnihotri.github.io/WeatherApp/).
+
